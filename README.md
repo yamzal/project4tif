@@ -1,2 +1,2 @@
-# project4tif
-project smt 4 tif polije
+# tutorial GitHub
+ini tutorial GitHub

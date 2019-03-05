@@ -1,0 +1,1 @@
+model untuk mengelola data,logika bisnis

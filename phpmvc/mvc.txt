@@ -1,0 +1,37 @@
+|------------------------------------------------------|
+  tujuan MVC yaitu memisahkan tampilan, data dan proses
+|------------------------------------------------------|
+
+ >MVC
+ yaitu model, view, dan controller
+ model yaitu sebagai data, controller sebagai proses dan view sebagai tampilan.
+ 
+ Model : representasi pengetahuan, mengelola data, Logika Bisnis
+ Controller : perantara antara model dan view, menangani pemrosesan pada aplikasi, menangani aksi dari user
+ View : Output, apa yang dilihat oleh user, lapisan Presentasi 
+ 
+ 
+ Kenapa MVC?
+- Organisasi dan Struktur Kode
+- Pemisahan logic dan tampilan
+- Perawatan Kode
+- Implementasi Konsep OOP yang sudah dipelajari 
+- Digunakan oleh banyak Web Application Framework 
+- contoh pada PHP yaitu CodeIgniter, Laravel, Yii, dll.
+- pada javascript yaitu angularJS
+
+Skema Code Igniter
+
+ 	INDEX.PHP	-> ROUTING -> SECURITY ->   APPLICATION CONTROLLER
+				
+				
+			   						  						  -> Model
+															  <-															  
+															  -> Helpers
+	 											      		  <- 															  
+															  -> Plugins
+															  <-															  
+															  -> Script
+															  <- 
+
+	INDEX.PHP	<- CATCHING  <- VIEW  <- APPLICATION CONTROLLER

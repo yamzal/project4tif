@@ -1,0 +1,1 @@
+app berfungsi sebagai tempat menyimpan file - file utama dari aplikasi, dan tidak bisa diakses oleh user

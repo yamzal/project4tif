@@ -1,0 +1,1 @@
+Folder Public berfungsi sebagai tempat menyimpan file - file yang bisa diakses oleh user contohnya yaitu index
